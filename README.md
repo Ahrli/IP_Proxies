@@ -18,12 +18,8 @@ PROXIES_REDIS_KEY = "proxies"   #redis 存储键
 
 PROXIES_SPIDERS = [
     "spiders.daili66.Daili66ProxySpider",
-    
-    "spiders.xici.XiciSpider",
-    
-"spiders.xici透明.XiciSpider",
-
-"spiders.kuaidaili.KuaidailiSpider",
-
+    "spiders.xici.XiciSpider",    
+    "spiders.xici透明.XiciSpider",
+    "spiders.kuaidaili.KuaidailiSpider",
     'spiders.wuyoudaili.WuyoudailiSpider'
 ]
