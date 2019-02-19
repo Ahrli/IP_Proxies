@@ -8,7 +8,7 @@ REDIS_HOST = '192.168.80.188' #redis IP地址
 
 REDIS_PORT = 6379             #端口
 
-REDIS_PASSWORD = 'LOOP2themoon' #密码
+REDIS_PASSWORD = 'LOOP2themoon' #密码 若没有密码可以设置为None
 
 REDIS_DB = 2                    #数据库名称
 
